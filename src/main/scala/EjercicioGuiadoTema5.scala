@@ -1,4 +1,4 @@
-  object Main extends App {
+  object EjercicioGuiadoTema5 extends App {
     def devolverColor(v: Vehiculo) = v.color
     def devolverPeso(v: Vehiculo) = v.peso
 
